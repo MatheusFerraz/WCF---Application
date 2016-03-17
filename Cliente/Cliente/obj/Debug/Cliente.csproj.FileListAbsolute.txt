@@ -1,0 +1,10 @@
+C:\Users\LABCQTS\Documents\Visual Studio 2013\Projects\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\LABCQTS\Documents\Visual Studio 2013\Projects\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\LABCQTS\Documents\Visual Studio 2013\Projects\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\LABCQTS\Documents\Visual Studio 2013\Projects\Cliente\Cliente\bin\Debug\WCF.Contrato.dll
+C:\Users\LABCQTS\Documents\Visual Studio 2013\Projects\Cliente\Cliente\bin\Debug\WCF.Servidor.dll
+C:\Users\LABCQTS\Documents\Visual Studio 2013\Projects\Cliente\Cliente\bin\Debug\WCF.Contrato.pdb
+C:\Users\LABCQTS\Documents\Visual Studio 2013\Projects\Cliente\Cliente\bin\Debug\WCF.Servidor.pdb
+C:\Users\LABCQTS\Documents\Visual Studio 2013\Projects\Cliente\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\LABCQTS\Documents\Visual Studio 2013\Projects\Cliente\Cliente\obj\Debug\Cliente.exe
+C:\Users\LABCQTS\Documents\Visual Studio 2013\Projects\Cliente\Cliente\obj\Debug\Cliente.pdb

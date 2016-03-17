@@ -1,0 +1,6 @@
+C:\Users\LABCQTS\Documents\Visual Studio 2013\Projects\WCF.Contrato\WCF.Contrato\obj\Debug\WCF.Contrato.csprojResolveAssemblyReference.cache
+C:\Users\LABCQTS\Documents\Visual Studio 2013\Projects\WCF.Contrato\WCF.Contrato\bin\WCF.Contrato.dll.config
+C:\Users\LABCQTS\Documents\Visual Studio 2013\Projects\WCF.Contrato\WCF.Contrato\bin\WCF.Contrato.dll
+C:\Users\LABCQTS\Documents\Visual Studio 2013\Projects\WCF.Contrato\WCF.Contrato\bin\WCF.Contrato.pdb
+C:\Users\LABCQTS\Documents\Visual Studio 2013\Projects\WCF.Contrato\WCF.Contrato\obj\Debug\WCF.Contrato.dll
+C:\Users\LABCQTS\Documents\Visual Studio 2013\Projects\WCF.Contrato\WCF.Contrato\obj\Debug\WCF.Contrato.pdb

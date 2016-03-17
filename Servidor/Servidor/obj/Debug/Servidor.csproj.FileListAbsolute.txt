@@ -1,0 +1,10 @@
+C:\Users\LABCQTS\Documents\Visual Studio 2013\Projects\Servidor\Servidor\bin\Debug\Servidor.exe.config
+C:\Users\LABCQTS\Documents\Visual Studio 2013\Projects\Servidor\Servidor\obj\Debug\Servidor.csprojResolveAssemblyReference.cache
+C:\Users\LABCQTS\Documents\Visual Studio 2013\Projects\Servidor\Servidor\bin\Debug\Servidor.exe
+C:\Users\LABCQTS\Documents\Visual Studio 2013\Projects\Servidor\Servidor\bin\Debug\Servidor.pdb
+C:\Users\LABCQTS\Documents\Visual Studio 2013\Projects\Servidor\Servidor\bin\Debug\WCF.Contrato.dll
+C:\Users\LABCQTS\Documents\Visual Studio 2013\Projects\Servidor\Servidor\bin\Debug\WCF.Servidor.dll
+C:\Users\LABCQTS\Documents\Visual Studio 2013\Projects\Servidor\Servidor\bin\Debug\WCF.Contrato.pdb
+C:\Users\LABCQTS\Documents\Visual Studio 2013\Projects\Servidor\Servidor\bin\Debug\WCF.Servidor.pdb
+C:\Users\LABCQTS\Documents\Visual Studio 2013\Projects\Servidor\Servidor\obj\Debug\Servidor.exe
+C:\Users\LABCQTS\Documents\Visual Studio 2013\Projects\Servidor\Servidor\obj\Debug\Servidor.pdb
